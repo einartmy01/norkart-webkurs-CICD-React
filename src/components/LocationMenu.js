@@ -10,9 +10,10 @@ const menuStyle = {
 };
 
 const locations = [
-  { center: [59.00108627952889, 9.744668474238297], name: "Hytta" },
-  { center: [59.92285246253298, 10.605971690269234], name: "Morra mi" },
-  { center: [61.27638852383443, 6.500936798919031], name: "Morra di" },
+  { center: [9.744668474238297, 59.00108627952889], name: "Hytta" },
+  { center: [10.605971690269234, 59.92285246253298], name: "Morra mi" },
+  { center: [16.184159403173364, 54.30870986021159], name: "Morra di" },
+  { center: [9.56724247599451, 58.84553861904199], name: "Deg" },
 ];
 
 const LocationMenu = (props) => {
