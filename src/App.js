@@ -9,7 +9,7 @@ const styles = {
 function App() {
   return (
     <div style={styles}>
-    kari was here
+    kari was here. Tagging ække fett og hvertfall ikke greit -Einar
       <Header />
       <MapboxGLMap />
     </div>
