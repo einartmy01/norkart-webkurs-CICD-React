@@ -10,11 +10,9 @@ const menuStyle = {
 };
 
 const locations = [
-  { center: [10.674706290112326, 59.92544400487645], name: "Skøyen" },
-  { center: [10.408773, 63.422091], name: "Trondheim" },
-  { center: [7.993744574800331, 58.145072155868036], name: "Kristiansand" },
-  { center: [10.457060447232827, 61.123876982347184], name: "LilleHammer" },
-  { center: [5.341447457437576, 60.372653021429045], name: "Bergen" },
+  { center: [59.00108627952889, 9.744668474238297], name: "Hytta" },
+  { center: [59.92285246253298, 10.605971690269234], name: "Morra mi" },
+  { center: [61.27638852383443, 6.500936798919031], name: "Morra di" },
 ];
 
 const LocationMenu = (props) => {
